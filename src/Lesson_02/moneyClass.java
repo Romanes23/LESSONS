@@ -4,10 +4,10 @@ public class moneyClass {
 
         public static void main(String[] args){
             Scanner scn = new Scanner(System.in);
-            int money = 0;
+          //  int money = 0;
             String str = "";
             System.out.println("Введите число(1-99) :");
-            money = scn.nextInt();
+            int   money = scn.nextInt();
             int  ost = money % 10;
 
 
