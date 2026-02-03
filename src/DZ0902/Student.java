@@ -31,3 +31,14 @@ public class Student {
 
 
 }
+//git remote add origin https://github.com/Romanes23/LESSONS.git
+//git branch -M main
+//git push -u origin main
+
+
+//git init
+//git add README.md
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin https://github.com/Romanes23/Java_01.git
+//git push -u origin main
